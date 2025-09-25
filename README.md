@@ -1,9 +1,7 @@
 # distributed-system-prediction
 time series prediction algorithm
 
-# ⚡ Sistemas Distribuidos – Prediciendo el Futuro
-
-Este repositorio contiene la implementación en **C con MPI y OpenMP** del trabajo evaluable de la asignatura **Sistemas Distribuidos (Grado en Ingeniería Informática en Sistemas de Información, curso 2024/2025)**.  
+# ⚡ Sistemas Distribuidos – Prediciendo el Futuro  
 
 El objetivo del proyecto es **implementar un algoritmo de predicción de series temporales** utilizando un método de **k vecinos más cercanos (k-NN)**, y estudiar la **escalabilidad** de la solución variando el número de procesos, hilos y tamaño de los datos.
 
